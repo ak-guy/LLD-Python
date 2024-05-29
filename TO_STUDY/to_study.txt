@@ -1,0 +1,25 @@
+01. Armstrong Number (sum of cube of every digits in a number), prime number
+02. diff bw list and tuple, when do we use tuple -> (DONE)
+03. Polymorphism(runtime, compile time), Inheritance(types) -> (DONE)
+04. deadlock vs semaphore -> (DONE)
+05. java vs python -> (DONE)
+06. dbms (views, normalization, joins)
+07. iteration vs recursion -> (DONE)
+08. hash map -> (DONE)
+09. code for merge sort -> (DONE)
+10. Memory management
+11. GIL (global interpretor lock)
+12. Resume Projects and its TechStack
+13. Recursion implementation -> (DONE)
+14. lambda function -> (DONE)
+15. MVT architecture
+16. REST API
+17. AWS (particularly fastapi app deployment on lamda services)
+18. query to find second highest salary
+19. class construction
+20. database modeling
+21. Concurrency
+22. fastapi architecture (model->for handling database, controller->also known as router, service->executor of business logic)
+23. __str__ vs __repr__
+24. map, filter, reduce, accumulate, custom sort -> (DONE)
+25. decorator, generator
